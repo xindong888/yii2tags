@@ -1,3 +1,4 @@
+
 功能说明:
 
 yii2表单的输入项内添加标签
@@ -12,6 +13,9 @@ yii2表单的输入项内添加标签
 ```php
  <?= $form->field($model, 'tags')->widget(\yii2tags\TagsInputWidgetX::className()) ?>
 ```
+本Widget是基于bootstrap-tagsInput.js
+
+bootstrap-tagsInput.js是jquery的标签插件
 
 [更多配置说明可以参看官网http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/bootstrap-2.3.2.html](http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/bootstrap-2.3.2.html)
 
