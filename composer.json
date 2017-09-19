@@ -1,0 +1,14 @@
+{
+    "name": "xindong888/yii2tags",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xindong888",
+            "email": "xindong888@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"yii2tags\\": ""}
+    }
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,oBAAqB;EACnB,KAAK,EAAE,sBAAsB;EAC7B,KAAK,EAAE,cAAc",
+"sources": ["yii2TagsCss.scss"],
+"names": [],
+"file": "yii2TagsCss.css"
+}
